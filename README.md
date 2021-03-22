@@ -1,5 +1,4 @@
-# Coursera Data Science Specialization: Foundations using R
-
+# Coursera Data Science Specialization
 I created this repository to group and present my work on the 10 courses of the [Data Science Specialization Program](https://www.coursera.org/specializations/jhu-data-science#about):
 - **Data Scientist's Toolbox**
 - **R Programming**
