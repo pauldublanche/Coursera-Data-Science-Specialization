@@ -1,6 +1,6 @@
-# Coursera Specialisation Data Science: Foundations using R
+# Coursera Specialization Data Science: Foundations using R
 
-I created this repository to group and present my work on the 10 courses of the [Specialisation Data Science Program](https://www.coursera.org/specializations/jhu-data-science#about):
+I created this repository to group and present my work on the 10 courses of the [Specialization Data Science Program](https://www.coursera.org/specializations/jhu-data-science#about):
 - **Data Scientist Toolbox**
 - **R Programming**
 - Getting and cleaning data
@@ -14,4 +14,4 @@ I created this repository to group and present my work on the 10 courses of the 
 
 As I'm currently taking these lectures and updating my github at the same time so this repository will be complete as soon as i've been through all of them.
 
-I welcome any comment or advices you may have that will help me improve this repository.
+I welcome any comment or advice you may have that will help me improve this repository.
