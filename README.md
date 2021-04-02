@@ -2,7 +2,7 @@
 I created this repository to group and present my work on the 10 courses of the [Data Science Specialization Program](https://www.coursera.org/specializations/jhu-data-science#about):
 - **Data Scientist's Toolbox**
 - **R Programming**
-- Getting and cleaning data
+- **Getting and cleaning data**
 - Exploratory data analysis
 - Reproducible research
 - Statistical inference
