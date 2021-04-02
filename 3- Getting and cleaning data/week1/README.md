@@ -15,10 +15,10 @@ Goals:
 
 It includes weekly quizzes and related codes, codes for the assignments, and needed data.
 
-   - Week 1: Finding data and reading different file types (local files, excel, XML, Json).
-   - Week 2: Introduction of the most common data storage systems and the appropriate tools to extract data from web or from databases like MySQL.
-   - Week 3: Organizing, merging and managing the collected data using the lectures from Weeks 1 and 2.
-   - Week 4: Text and date manipulation in R
+   - **Week 1:** Finding data and reading different file types (local files, excel, XML, Json).
+   - **Week 2:** Introduction of the most common data storage systems and the appropriate tools to extract data from web or from databases like MySQL.
+   - **Week 3:** Organizing, merging and managing the collected data using the lectures from Weeks 1 and 2.
+   - **Week 4:** Text and date manipulation in R
 
 
 
