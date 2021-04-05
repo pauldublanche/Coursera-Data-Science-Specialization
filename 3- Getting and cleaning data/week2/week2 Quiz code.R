@@ -3,8 +3,8 @@ library(httr)
 
 oauth_endpoints("github")
 myapp <- oauth_app("github",
-                   key = "02c980178d7ef43a4543", # "My Cliend ID","
-                   secret = "9f4d8d860c76d6386a5959496d73185f899d9733" # "My Client Secret",  
+                   key = "My Cliend ID","
+                   secret = "My Client Secret",  
                    )
 library(httpuv)
 github_token <- oauth2.0_token(oauth_endpoints("github"), myapp)
@@ -29,7 +29,6 @@ sqldf("select pwgtp1 from acs where AGEP \lt< 50")
 
 
 ### Question 3
-
 unique(acs$AGEP) == sqldf("select unique * from acs")
 unique(acs$AGEP) == sqldf("select AGEP where unique from acs")
 unique(acs$AGEP) == sqldf("select distinct AGEP from acs")
@@ -45,7 +44,5 @@ sapply(htmlcode, nchar)[c(10,20,30,100)]
 
 ### Question 5
 url <- "https://d396qusza40orc.cloudfront.net/getdata%2Fwksst8110.for"
-
-
 data <- read.fwf(file=url,widths=c(-1,9,-5,4,4,-5,4,4,-5,4,4,-5,4,4), skip = 4)
 sum(data[, 4])
